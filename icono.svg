@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="Saldo Cero">
+  <rect width="512" height="512" rx="112" fill="#2a78d6"/>
+  <rect x="88" y="120" width="336" height="206" rx="30" fill="#ffffff" opacity="0.22"/>
+  <rect x="88" y="178" width="336" height="34" fill="#ffffff" opacity="0.55"/>
+  <rect x="124" y="252" width="96" height="22" rx="11" fill="#ffffff" opacity="0.85"/>
+  <rect x="238" y="252" width="60" height="22" rx="11" fill="#ffffff" opacity="0.5"/>
+  <path d="M104 370 L200 396 L296 376 L392 424" fill="none" stroke="#ffffff" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="392" cy="424" r="17" fill="#ffffff"/>
+</svg>
